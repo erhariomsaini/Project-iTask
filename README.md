@@ -21,9 +21,9 @@ PHP, My SQL, HTML, Bootstrap<br/><br/>
 ![Screenshot (70)](https://github.com/erhariomsaini/Project-iTask/assets/151992853/6f22ffcb-dc02-4745-8d84-6c6ffea1747d) <br/></br>
 ### Screenshot-7 : After Adding Task
 ![Screenshot (71)](https://github.com/erhariomsaini/Project-iTask/assets/151992853/7aee5876-464f-4553-baaf-c9c8c6a0044f) <br/></br>
-### Screenshot-8 : Landing Page
+### Screenshot-8 : After adding one more task
 ![Screenshot (72)](https://github.com/erhariomsaini/Project-iTask/assets/151992853/922dad24-80f4-4bd3-acb9-faca5f09d648) <br/></br>
-### Screenshot-9 : Landing Page
+### Screenshot-9 : Viewing all added task with pagination functinality
 ![Screenshot (73)](https://github.com/erhariomsaini/Project-iTask/assets/151992853/0d0b1119-ebd5-48d2-b623-b682118c73fc) <br/></br>
 ### Screenshot-10 : Landing Page
 ![Screenshot (74)](https://github.com/erhariomsaini/Project-iTask/assets/151992853/ed7a9188-d4c3-42ae-a6da-173820dfe179) <br/></br>
