@@ -25,9 +25,9 @@ PHP, My SQL, HTML, Bootstrap<br/><br/>
 ![Screenshot (72)](https://github.com/erhariomsaini/Project-iTask/assets/151992853/922dad24-80f4-4bd3-acb9-faca5f09d648) <br/></br>
 ### Screenshot-9 : Viewing all added task with pagination functinality
 ![Screenshot (73)](https://github.com/erhariomsaini/Project-iTask/assets/151992853/0d0b1119-ebd5-48d2-b623-b682118c73fc) <br/></br>
-### Screenshot-10 : Landing Page
+### Screenshot-10 : Edit Task Functinality
 ![Screenshot (74)](https://github.com/erhariomsaini/Project-iTask/assets/151992853/ed7a9188-d4c3-42ae-a6da-173820dfe179) <br/></br>
-### Screenshot-11 : Landing Page
+### Screenshot-11 : Delete Task Functinality
 ![Screenshot (75)](https://github.com/erhariomsaini/Project-iTask/assets/151992853/7bff6e5c-e301-48bb-add3-e749af365ece) <br/></br>
-### Screenshot-12 : Landing Page
+### Screenshot-12 : Logout Functinality
 ![Screenshot (76)](https://github.com/erhariomsaini/Project-iTask/assets/151992853/88a3e048-207f-438d-836c-0d2bd478d342) <br/></br>
