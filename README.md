@@ -9,13 +9,13 @@ PHP, My SQL, HTML, Bootstrap<br/><br/>
 (Wait for a while to load screenshots) <br/></br>
 ### Screenshot-1 : Landing Page
 ![Screenshot (65)](https://github.com/erhariomsaini/Project-iTask/assets/151992853/6218659f-13d0-410f-b9f2-fd27a3d8d04d) <br/></br>
-### Screenshot-2 : Landing Page
+### Screenshot-2 : Signup Functinality
 ![Screenshot (66)](https://github.com/erhariomsaini/Project-iTask/assets/151992853/4965d6de-0f81-404b-9711-41983a1ccd82) <br/></br>
-### Screenshot-3 : Landing Page
+### Screenshot-3 : After Signup home page
 ![Screenshot (67)](https://github.com/erhariomsaini/Project-iTask/assets/151992853/c31726c8-058f-490d-8602-9a06efbd69fc) <br/></br>
-### Screenshot-4 : Landing Page
+### Screenshot-4 : Login Functinality
 ![Screenshot (68)](https://github.com/erhariomsaini/Project-iTask/assets/151992853/1c7578bf-0950-4948-b2f6-1ad5f189032e) <br/></br>
-### Screenshot-5 : Landing Page
+### Screenshot-5 : After Login home page
 ![Screenshot (69)](https://github.com/erhariomsaini/Project-iTask/assets/151992853/61695456-087d-4ddd-b7dc-926bdaaf64ba) <br/></br>
 ### Screenshot-6 : Landing Page
 ![Screenshot (70)](https://github.com/erhariomsaini/Project-iTask/assets/151992853/6f22ffcb-dc02-4745-8d84-6c6ffea1747d) <br/></br>
