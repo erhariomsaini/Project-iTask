@@ -24,7 +24,7 @@
 
         $signup_pw=password_hash($signup_pw,PASSWORD_DEFAULT);
 
-        $search_query = "SELECT * FROM `cruduser` WHERE `username` = $signup_username";
+        $search_query = "SELECT * FROM `cruduser` WHERE `username` = '$signup_username'";
         $search_result = mysqli_query($conn,$search_query);
         $num = mysqli_num_rows($search_result);
         if($num==1){
