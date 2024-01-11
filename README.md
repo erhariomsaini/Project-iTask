@@ -17,9 +17,9 @@ PHP, My SQL, HTML, Bootstrap<br/><br/>
 ![Screenshot (68)](https://github.com/erhariomsaini/Project-iTask/assets/151992853/1c7578bf-0950-4948-b2f6-1ad5f189032e) <br/></br>
 ### Screenshot-5 : After Login home page
 ![Screenshot (69)](https://github.com/erhariomsaini/Project-iTask/assets/151992853/61695456-087d-4ddd-b7dc-926bdaaf64ba) <br/></br>
-### Screenshot-6 : Landing Page
+### Screenshot-6 : Add Task Functinality
 ![Screenshot (70)](https://github.com/erhariomsaini/Project-iTask/assets/151992853/6f22ffcb-dc02-4745-8d84-6c6ffea1747d) <br/></br>
-### Screenshot-7 : Landing Page
+### Screenshot-7 : After Adding Task
 ![Screenshot (71)](https://github.com/erhariomsaini/Project-iTask/assets/151992853/7aee5876-464f-4553-baaf-c9c8c6a0044f) <br/></br>
 ### Screenshot-8 : Landing Page
 ![Screenshot (72)](https://github.com/erhariomsaini/Project-iTask/assets/151992853/922dad24-80f4-4bd3-acb9-faca5f09d648) <br/></br>
