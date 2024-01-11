@@ -21,7 +21,7 @@
         $login_pw=str_replace('"',"&#34;",$login_pw);
         $login_pw=str_replace(";","&#59;",$login_pw);
 
-        $search_login_query="SELECT * FROM `cruduser` WHERE `username` = $login_username";
+        $search_login_query="SELECT * FROM `cruduser` WHERE `username` = '$login_username'";
         $search_login_result=mysqli_query($conn,$search_login_query);
         $num_login = mysqli_num_rows($search_login_result);
         if($num_login==1){
